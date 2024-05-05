@@ -1,0 +1,20 @@
+{
+  "name": "datesetter", 
+  "version": "1.0.0", 
+  "description": "This utility library provides helpful functions for manipulating Date objects in JavaScript. It offers functionality for formatting dates, adding days to a date, and calculating the difference in days between two dates.", 
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "" // репозиторий (заполним чуть позже)
+  },
+  "keywords": [ // ключевые слова (необязательно)
+    "", 
+    "",
+    ""
+  ],
+  "author": "", // автор (необязательно)
+  "license": "MIT"
+}
